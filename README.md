@@ -37,7 +37,7 @@ Rows per Cluster = 20
 Number of Clusters = 28 (sqrt(n/2) where n is the total number of rows) Multi-Stage Sampling In this method we have used a combination of sampling technique, i.e. cluster and simple random. The dataset is divided into clusters and then random samples are chosen from those clusters.
 
 
-<b><ul>Final Result Table</b></ul>
+<b><u>Final Result Table</b></u>
 
 
 <img width="688" alt="Screenshot 2023-02-21 at 2 18 14 PM" src="https://user-images.githubusercontent.com/92255222/220294446-3aedab58-3a92-4032-97b1-27614e75afab.png">
