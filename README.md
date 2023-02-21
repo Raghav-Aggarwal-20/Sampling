@@ -2,11 +2,11 @@
 
 Assignment on Sampling for UCS654
 
-##Description
+<b>Description</b>
 
 This assignment has a dataset regarding credit cards. It is a binary classification problem. The dataset is imbalanced and hence it is balanced by using random over sampling technique. After balancing the dataset, different sampling techniques are used and 5 different models have been applied to get the accuracy on testing set. The dataset is divided into a 25-75 ratio of testing and training set.
 
-##Methodology
+<b>Methodology</b>
 
 Balancing Dataset Creating different types of samples Training different machine learning models Testing the models Analysing the Result obtained Sampling Technique Description and Sampling Size Formula
 
@@ -37,7 +37,7 @@ Rows per Cluster = 20
 Number of Clusters = 28 (sqrt(n/2) where n is the total number of rows) Multi-Stage Sampling In this method we have used a combination of sampling technique, i.e. cluster and simple random. The dataset is divided into clusters and then random samples are chosen from those clusters.
 
 
-<b><u>Final Result Table</b></u>
+<b>Final Result Table</b>
 
 
 <img width="688" alt="Screenshot 2023-02-21 at 2 18 14 PM" src="https://user-images.githubusercontent.com/92255222/220294446-3aedab58-3a92-4032-97b1-27614e75afab.png">
